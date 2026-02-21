@@ -1,5 +1,5 @@
 local Games = {
-  [994732206] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit
+  [994732206] = "https://vss.pandadevelopment.net/virtual/file/083c392a30074ac0", -- Blox Fruits.
 }
 
 return Games
